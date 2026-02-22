@@ -12,6 +12,9 @@ Business sales performance analysis.
 This task focuses on analyzing sales data and creating an interactive Power BI dashboard.
 To understand revenue trends, profit distribution, and product performance.
 
+## Dasboard Screenshot
+![Dashnoard Screenshot][dashboard.png]
+
 ## Tools & Technologies Used
 - Microsoft Power BI
 - Microsoft Excel
